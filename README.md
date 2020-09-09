@@ -1,6 +1,6 @@
 # CS50_Filter
 ## Completed for Problem Set 4 of Harvard's CS50 on edX  
-**Description**: A program written in C that applies filters to BMPs
+**Description**: A program written in C that applies filters to BMP. Only the code for the filters is shown.
 
 ***Note***: The following functions were written by me:
 1. `grayscale`
